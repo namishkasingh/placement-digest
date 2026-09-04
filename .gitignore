@@ -1,0 +1,9 @@
+# Never commit secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (optional: remove this line if you WANT to commit your data)
+jobs.db
